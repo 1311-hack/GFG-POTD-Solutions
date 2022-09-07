@@ -1,0 +1,7 @@
+def findMinSum(self, A,B,N):
+        A.sort()
+        B.sort()
+        minsum = 0
+        for i in range(N):
+            minsum += abs(A[i] - B[i])
+        return minsum
