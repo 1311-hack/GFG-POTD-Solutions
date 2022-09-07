@@ -1,3 +1,5 @@
+#Function to find Minimum Sum of Absolute Differences of Pairs.
+
 def findMinSum(self, A,B,N):
         A.sort()
         B.sort()
