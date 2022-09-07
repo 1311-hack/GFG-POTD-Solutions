@@ -1,7 +1,8 @@
 # GFG-POTD-Solutions
 
 Geeks for Geeks - Problem of the day (POTD) solutions with proper explanation.
-The solution including the explation will be uploaded everyday at 3pm IST.
+
+The solution including the explanation will be uploaded everyday at 3pm IST.
 
 All the solutions are in python.
 
